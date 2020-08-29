@@ -1,0 +1,1 @@
+<?= \Bestwebsite\StarRating\view('star') ?>
